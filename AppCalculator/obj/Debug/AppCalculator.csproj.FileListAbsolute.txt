@@ -1,0 +1,10 @@
+E:\LIA\KK3\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe.config
+E:\LIA\KK3\AppCalculator\AppCalculator\bin\Debug\AppCalculator.exe
+E:\LIA\KK3\AppCalculator\AppCalculator\bin\Debug\AppCalculator.pdb
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csprojAssemblyReference.cache
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Form1.resources
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.Properties.Resources.resources
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.GenerateResource.cache
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.csproj.CoreCompileInputs.cache
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.exe
+E:\LIA\KK3\AppCalculator\AppCalculator\obj\Debug\AppCalculator.pdb
